@@ -1,0 +1,35 @@
+body {
+font-family: Arial;
+}
+
+header img{
+  padding: 10px;
+  margin: auto;
+  width: 12%;
+  display: block;
+}
+
+nav{
+  padding: 10px 0 50px 0;
+  vertical-align: middle;
+  text-align: center;
+}
+
+nav li{
+  display: inline;
+  margin-right: 30px;
+}
+
+nav a{
+  color: #48449C;
+  text-decoration: None;
+}
+.current{
+  color: #FDBE3D;
+  font-weight: bold;
+}
+
+.tourDate{
+  /* float: left;
+  margin-bottom: 50px; */
+}
